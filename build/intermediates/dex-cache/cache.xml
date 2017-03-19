@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_beb8c684457e16962f3c1bc6d0b90943b588e09d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.21.0\42631630fe1276d4d6d6397bb07d53a4e4fec278\google-http-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.21.0_c0090f51b6363d0be7227d2a25902f272d4797a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.21.0\16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc\google-api-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.21.0_a729ceaf83320cc3d1de6f6a279a9219cd26df5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_38e2653b2e08edb86a88801cc177b01f72955593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.21.0\61ec42bbfc51aafde5eb8b4923c602c5b5965bc2\google-oauth-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.21.0_1b3d37e63cc97013b66c00f0581406a104efe393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_f3a4eea8155b65be8f1e5866fcf1ff02d60c9159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-books\v1-rev77-1.21.0\a7b2619ba701119f47bc63de304850cddeeb2815\google-api-services-books-v1-rev77-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7b2619ba701119f47bc63de304850cddeeb2815">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-books-v1-rev77-1.21.0_84530b01cad15fab0412800066365d8fcb68a890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.21.0\58768eec41118e917eba75ff6d5b022e01c76efc\google-http-client-android-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58768eec41118e917eba75ff6d5b022e01c76efc">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.21.0_3fca03544dd1a94e29776751c33d84b2abb1579c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.3\baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.3_8bc637fcca1e0a3556ffc9576dbd2dded58abbcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_bde34620e9a21f9bade92fc7f944e3b312f5e18e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_c4c359208e50a2b58642a0357d0ad9853833f492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b57db1a10b858ac8bfebdf542e08187fbd795ad8">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee82303088a7a02e88bc56c0b89ba377db4a24de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_da6aa6e32ef8d9b059bb87905ed027b0f53e55e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_9ab9505f7fe6e59ea359420c2c91ea2bf41f3862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_36f82e8afe8ec29ddd9cbf2fc5ac42b8c2c441ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_c9b978edc215f29e7fe98fba35adc33852f63765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_55c3fb554dfe2136e94d04d469e90dc001ce5991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_e536e0e68cc73246c3449edecc61213844c7ac6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_c6243f69cc8efd6bf8924a8acd448128e9c13836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.21.0\8ce17bdd15fff0fd8cf359757f29e778fc7191ad\google-http-client-jackson2-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.21.0_6a877eba8c225593533866a863c8f02c1056d8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f13e9dfdd51461c600caf633e88466d041b9527e">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a524a9229db491e008135c3c4f5e96fff37d36e4\classes.dex" />
+    </item>
+
+</items>
